@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/savayer/demo-fake-server](https://my-json-server.typicode.com/savayer/demo-fake-server)
+[https://my-json-server.typicode.com/savayer/demo](https://my-json-server.typicode.com/savayer/demo)
 
 ## Use your own data
 
