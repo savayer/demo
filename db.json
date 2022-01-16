@@ -12,8 +12,8 @@
     "name": "savayer"
   },
   "todos": [
-    { id: 1, completed: false, name: 'Buy a bread', description: 'Sliced for toast in Titan :)' },
-		{ id: 2, completed: false, name: 'Wash the dishes' },
-		{ id: 3, completed: false, name: 'Feed the cat', description: 'Sheba or Kitekat' }
+    { "id": 1, "completed": false, "name": "Buy a bread", "description": "Sliced for toast in Titan :)" },
+    { "id": 2, "completed": false, "name": "Wash the dishes" },
+    { "id": 3, "completed": false, "name": "Feed the cat", "description": "Sheba or Kitekat" }
   ]
 }
