@@ -1,19 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1", "body": "test 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "savayer"
-  },
-  "todos": [
-    { "id": 1, "completed": false, "name": "Buy a bread", "description": "Sliced for toast in Titan :)" },
-    { "id": 2, "completed": false, "name": "Wash the dishes" },
-    { "id": 3, "completed": false, "name": "Feed the cat", "description": "Sheba or Kitekat" }
-  ]
+	"posts": [
+		{ "id": 1, "title": "Post 1", "body": "test 1" },
+		{ "id": 2, "title": "Post 2" },
+		{ "id": 3, "title": "Post 3" }
+	],
+	"comments": [
+		{ "id": 1, "body": "some comment", "postId": 1 },
+		{ "id": 2, "body": "some comment", "postId": 1 }
+	],
+	"profile": {
+		"name": "savayer"
+	},
+	"todos": [
+		{ "id": 1, "completed": false, "name": "Buy a bread", "description": "Sliced for toast in Titan :)" },
+		{ "id": 2, "completed": false, "name": "Wash the dishes" },
+		{ "id": 3, "completed": false, "name": "Feed the cat", "description": "Sheba or Kitekat" }
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "Product 1",
+			"cost": 150,
+			"images": [
+				"https://artday.wossthemes.com/assets/img/works/single-product/1.jpg",
+				"https://artday.wossthemes.com/assets/img/works/single-product/2.jpg",
+				"https://artday.wossthemes.com/assets/img/works/single-product/3.jpg"
+			],
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+		},
+		{
+			"id": 2,
+			"name": "Product 2",
+			"cost": 200,
+			"images": [
+				"https://artday.wossthemes.com/assets/img/works/abstract/1.jpg"
+			],
+			"description": "2 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+		},
+		{
+			"id": 3,
+			"name": "Product 3",
+			"cost": 96,
+			"images": [
+				"https://artday.wossthemes.com/assets/img/works/illustrated/2.jpg"
+			],
+			"description": "3 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+		},
+		{
+			"id": 4,
+			"name": "Product 4",
+			"cost": 125,
+			"images": [
+				"https://artday.wossthemes.com/assets/img/works/journals/7.jpg"
+			],
+			"description": "4 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+		}
+	]
 }
