@@ -10,7 +10,7 @@
 		"en": "post 1 text",
 		"id": "pos 1 teks"
 	      }, 
-	      "linkTitle": "go to goole", 
+	      "link_title": "go to goole", 
 	      "link": "https://google.com"
 	    },
 	    { 
@@ -23,7 +23,7 @@
 		"en": "post 2 text",
 		"id": "pos 2 teks"
 	      }, 
-	      "linkTitle": "go to yandex", 
+	      "link_title": "go to yandex", 
 	      "link": "https://yandex.com"
 	    },
 	    { 
@@ -36,7 +36,7 @@
 		"en": "post 3 text",
 		"id": "pos 3 teks"
 	      }, 
-	      "linkTitle": "go to bing", 
+	      "link_title": "go to bing", 
 	      "link": "https://bing.com"
 	    }
 	  ],
