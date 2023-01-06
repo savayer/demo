@@ -32,10 +32,7 @@
 		"en": "Post 3",
 		"id": "Pos 3"
 	      }, 
-	      "body": {
-		"en": "post 3 text",
-		"id": "pos 3 teks"
-	      }, 
+	      "body": null,
 	      "link_title": "go to bing", 
 	      "link": "https://bing.com"
 	    }
